@@ -1,7 +1,4 @@
----
-tags: kids, culture
-type: culture
----
+
 ## We've really covered a lot....
 
 Don't be overwhelmed! We don't expect you to memorize everything. This isn't school. There are no grades. There are no final exams. If you don't believe me, read this things:
