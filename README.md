@@ -8,3 +8,5 @@ Don't be overwhelmed! We don't expect you to memorize everything. This isn't sch
 2 [A Yahoo question forum about this topic](https://uk.answers.yahoo.com/question/index?qid=20120716041108AAV5cyu)
 
 3 [Quora forum talks about it too] (http://www.quora.com/Do-developers-memorize-all-tags-classes-and-functions)
+
+<a href='https://learn.co/lessons/hs-html-keep-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
