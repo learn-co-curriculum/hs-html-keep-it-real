@@ -9,4 +9,4 @@ Don't be overwhelmed! We don't expect you to memorize everything. This isn't sch
 
 3 [Quora forum talks about it too] (http://www.quora.com/Do-developers-memorize-all-tags-classes-and-functions)
 
-<a href='https://learn.co/lessons/hs-html-keep-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-html-keep-it-real' title='We've really covered a lot....'>We've really covered a lot....</a> on Learn.co and start learning to code for free.</p>
